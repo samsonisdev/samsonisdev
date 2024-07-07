@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samsonisdev
 - 👀 I’m interested in making AI integrated apps, Data Science and ML
-- 🌱 I’m currently learning Python, and it's libraries like NumPy, Panda, TensorFlow, Scikit-learn.  
+- 🌱 I’m currently learning Python, and it's libraries like NumPy, Pandas, TensorFlow, Scikit-learn.  
 - 💞️ I’m looking to collaborate on projects that takes me from beginner to Advanced level
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
