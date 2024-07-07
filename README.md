@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samsonisdev
-- 👀 I’m interested in making AI integrated apps and Machine Learning
+- 👀 I’m interested in making AI integrated, Data Science and ML
 - 🌱 I’m currently learning Python, and it's libraries like NumPy, Panda, TensorFlow, Scikit-learn.  
 - 💞️ I’m looking to collaborate on projects that takes me from beginner to Advanced level
 - 📫 How to reach me ...
